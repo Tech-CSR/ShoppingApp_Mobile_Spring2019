@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Payment">
+
+    <Button
+        android:id="@+id/pay_pal_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="250dp"
+        android:background="@color/colorPrimaryDark"
+        android:padding="12dp"
+        android:text="@string/pay_with_paypal"
+        android:textColor="@color/icons"
+        android:textSize="16dp" />
+    <Button
+        android:id="@+id/main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="250dp"
+        android:layout_below="@+id/pay_pal_button"
+        android:background="@color/colorPrimaryDark"
+        android:padding="12dp"
+        android:text="Back to Home"
+        android:textColor="@color/icons"
+        android:textSize="16dp" />
+
+</RelativeLayout>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "268984349409",
+    "firebase_url": "https://vogueapp-e3b0b.firebaseio.com",
+    "project_id": "vogueapp-e3b0b",
+    "storage_bucket": "vogueapp-e3b0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268984349409:android:8fdec7e9cc85fccd",
+        "android_client_info": {
+          "package_name": "com.example.vogueapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268984349409-58hm4an47p4bgmsdecphh7bbjt555bai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vogueapp",
+            "certificate_hash": "d0888b4e41aac2e24557a943362ad983f0fd47be"
+          }
+        },
+        {
+          "client_id": "268984349409-aldcqhn560g9ih8bim4m6tuj59k8btv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Pi6B4dEyn8jn0YmQX36C7HiUiCIm7oM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268984349409-aldcqhn560g9ih8bim4m6tuj59k8btv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
